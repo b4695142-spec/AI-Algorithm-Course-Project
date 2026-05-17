@@ -285,7 +285,7 @@ pip install torch torchvision matplotlib torchmetrics torchinfo tqdm transformer
 ## 使用方法
 
 1. 克隆或下载本项目
-2. 下载教程6-8所需的数据集（见上方数据集下载链接）
+2. 下载教程6-7所需的数据集（见上方数据集下载链接）
 3. 使用Jupyter Notebook按顺序打开教程文件
 4. 按顺序运行代码单元格，逐步学习
 
